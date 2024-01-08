@@ -1,0 +1,5 @@
+Jugador7,Jugador3,Jugador29,Jugador14
+Jugador37,Jugador3,Jugador32,Jugador7,Jugador23
+Jugador23,Jugador47,Jugador3,Jugador6,Jugador45,Jugador41,Jugador25
+Jugador2,Jugador19,Jugador33,Jugador18,Jugador46
+Jugador11,Jugador3,Jugador41
